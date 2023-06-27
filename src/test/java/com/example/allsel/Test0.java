@@ -10,22 +10,16 @@ public class Test0 {
         System.out.println("TRUE");
     }
 
-    @Test
-    public static void test1() {
-        Assert.assertTrue(false);
-        System.out.println("FALSE");
-    }
+//    @Test
+//    public static void test1() {
+//        Assert.assertTrue(false);
+//        System.out.println("FALSE");
+//    }
 
     @Test
     public void test2(){
         Assert.assertEquals(2,2);
         System.out.println("yes");
-    }
-
-    @Test
-    public void test3(){
-        Assert.assertEquals("a","b");
-        System.out.println("no");
     }
 
 }

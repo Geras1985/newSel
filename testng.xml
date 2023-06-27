@@ -4,8 +4,8 @@
 
     <test name="rderTest">
         <classes>
-            <class name="org.example.allsel.Test0"/>
-            <class name="org.example.allsel.Test1"/>
+            <class name="com.example.allsel.Test0"/>
+            <class name="com.example.allsel.Test1"/>
 
 
         </classes>
