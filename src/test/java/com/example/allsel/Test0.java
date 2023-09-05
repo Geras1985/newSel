@@ -10,11 +10,11 @@ public class Test0 {
         System.out.println("TRUE");
     }
 
-//    @Test
-//    public static void test1() {
-//        Assert.assertTrue(false);
-//        System.out.println("FALSE");
-//    }
+    @Test
+    public static void test1() {
+        Assert.assertTrue(false);
+        System.out.println("FALSE");
+    }
 
     @Test
     public void test2(){
